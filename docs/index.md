@@ -21,3 +21,11 @@ conda activate ./env
 ```
 pip install -r requirements.txt
 ```
+
+#### Step 5 - Initialized the dvc project
+```
+dvc init
+```
+
+#### Step 6 - commit and push the chnages to the remote repository
+
